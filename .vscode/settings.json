@@ -3,6 +3,15 @@
         "terminal.ansiBlue": "#000080",
         "activityBar.background": "#370B82",
         "titleBar.activeBackground": "#4E10B6",
-        "titleBar.activeForeground": "#FBF9FF"
+        "titleBar.activeForeground": "#FBF9FF",
+        "editor.background": "#1B1B1B",
+        "editor.foreground": "#00BCD4",
+        "editor.lineHighlightBackground": "#313131",
+        "editorWhitespace.foreground": "#424242",
+        "editorIndentGuide.background": "#616161",
+        "editor.findMatchHighlightBackground": "#DD2C00",
+        "editor.renderWhitespace": "all",
+        "editor.fontFamily": "Fira Mono",
+        "editor.fontSize": 14
     }
 }  
